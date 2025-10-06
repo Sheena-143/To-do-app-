@@ -1,4 +1,5 @@
-A To-Do List application in Java allows users to manage tasks, typically offering functionalities such as creating, reading, updating, and deleting tasks (CRUD operations). The implementation can vary depending on the desired interface and persistence mechanism.
+<h1>A To-Do List application in Java allows users to manage tasks, typically offering functionalities such as creating, reading, updating, and deleting tasks (CRUD operations). The implementation can vary depending on the desired interface and persistence mechanism.</h1>
+
 Core Components and Functionality:
 Task Model:
 A Task class encapsulates task attributes:
